@@ -37,7 +37,7 @@
     "@types/d3": "^3.5.35",
     "@types/nvd3": "^1.8.33",
     "d3": "^3.5.17",
-    "nvd3": "^1.8.5"
+    "nvd3": "git+https://20d88b79059549ebbd3fba741caeab9d3b20403d:x-oauth-basic@github.com/brunohartmann/nvd3.git#v1.8.6"
   },
   "devDependencies": {
     "@angular/common": "^2.4.1",
