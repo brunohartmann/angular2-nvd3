@@ -35,7 +35,6 @@ __decorate([
 ], NvD3Directive.prototype, "data", void 0);
 NvD3Directive = __decorate([
     core_1.Directive({ selector: '[appNvD3]' }),
-    __metadata("design:paramtypes", [typeof (_a = typeof core_1.ElementRef !== "undefined" && core_1.ElementRef) === "function" && _a || Object])
+    __metadata("design:paramtypes", [core_1.ElementRef])
 ], NvD3Directive);
 exports.NvD3Directive = NvD3Directive;
-var _a;
