@@ -1,6 +1,6 @@
 {
   "name": "angular2-nvd3",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Angular2 module for NVD3 chart",
   "directories": {
     "test": "test"
@@ -37,7 +37,7 @@
     "@types/d3": "^3.5.35",
     "@types/nvd3": "^1.8.33",
     "d3": "^3.5.17",
-    "nvd3": "git+https://github.com/brunohartmann/nvd3.git#9b6d215895f51916f99ae4096214065a972d57de"
+    "nvd3": "git+https://github.com/brunohartmann/nvd3.git#f388431c7139a4b3e5f725ece2c8df026c2e167a"
   },
   "devDependencies": {
     "@angular/common": "^2.4.1",
