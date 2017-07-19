@@ -1,6 +1,6 @@
 {
   "name": "angular2-nvd3",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Angular2 module for NVD3 chart",
   "directories": {
     "test": "test"
@@ -9,7 +9,7 @@
     "prepublish": "npm run compile",
     "pretest": "npm run compile",
     "test": "npm run test:lint && karma start karma.conf.js",
-    "compile": "rm -rf dist && ngc",
+    "compile": "rimraf dist && ngc",
     "test:lint": "tslint -c tslint.json 'src/angular2-nvd3/angular2-nvd3.*.ts'"
   },
   "repository": {
@@ -37,7 +37,7 @@
     "@types/d3": "^3.5.35",
     "@types/nvd3": "^1.8.33",
     "d3": "^3.5.17",
-    "nvd3": "git+https://github.com/brunohartmann/nvd3.git#6378ab328b7d69d86b44eb3d295df161ba58ecc5"
+    "nvd3": "git+https://github.com/brunohartmann/nvd3.git#f8cf306e5ca3c5ced4fde4fc88e2ce202920c476"
   },
   "devDependencies": {
     "@angular/common": "^2.4.1",
