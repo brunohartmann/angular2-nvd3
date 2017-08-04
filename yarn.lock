@@ -1695,9 +1695,9 @@ number-is-nan@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
 
-"nvd3@git+https://github.com/brunohartmann/nvd3.git#v1.9.9":
-  version "1.9.9"
-  resolved "git+https://github.com/brunohartmann/nvd3.git#f8cf306e5ca3c5ced4fde4fc88e2ce202920c476"
+"nvd3@git+https://github.com/brunohartmann/nvd3.git#79c984cabc02a02d22f42ca0a6e44dc25205cd4c":
+  version "2.0.0"
+  resolved "git+https://github.com/brunohartmann/nvd3.git#79c984cabc02a02d22f42ca0a6e44dc25205cd4c"
 
 oauth-sign@~0.8.1:
   version "0.8.2"
